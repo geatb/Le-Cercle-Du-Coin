@@ -74,7 +74,7 @@ Les décisions sont prises à la majorité des membres présents ou représenté
 
 15 jours au moins avant la date fixée, les membres de l’association sont convoqués par les soins du secrétaire. L’ordre du jour figure sur la convocation.
 
-L’ordre du jour est arrêté par le Conseil d’Administration. Doit figurer à l’ordre du jour toute question dont l’examen est réclamé par 1/3 au moins des membres de l’association..
+L’ordre du jour est arrêté par le Conseil d’Administration. Doit figurer à l’ordre du jour toute question dont l’examen est réclamé par 1/3 au moins des membres de l’association.
 
 Le président, assisté des membres du Conseil d’Administration, préside l’assemblée générale
 
@@ -122,9 +122,9 @@ En cas d’absence ou d’empêchement d’un président, l’un des vices-prés
 
 Des commissions peuvent être formées par décision du Conseil d’Administration dans le but de développer des activités de l’association ou de produire des rapports.
 
-**Article 15 – Affiliation**
+**Article 15 – Subventions**
 
-L’association est affiliée à l’association dénommée « Le Coin Coin ».  qui a pour but l’élaboration et la pérennité d’un écosystème gratuit de médias et de services. L’association versera, en qualité d’affiliée et pour soutenir cette activité éditoriale, un pourcentage des revenus de l’association fixé par le règlement intérieur en tant que subvention au Coin Coin.
+L’association peut accorder des subventions pour des projets particuliers. Les modalités concernant ces subventions sont définies par le règlement intérieur.
 
 **Article 16 – Dissolution**
 
