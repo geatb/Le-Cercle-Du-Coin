@@ -1,4 +1,4 @@
-### **Statuts adoptés par l’Assemblée Générale Constitutive du 22 Novembre 2015**
+### **Statuts proposés à l'issue de l’Assemblée Générale du 25 Janvier 2016**
 
 **Article 1 – Constitution**
 
