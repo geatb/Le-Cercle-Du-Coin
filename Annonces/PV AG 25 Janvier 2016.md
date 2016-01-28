@@ -1,4 +1,4 @@
-Le Cercle du Coin s’est réuni pour sa première assemblée générale au Sof’s Bar, 43 rue Saint-Sauveur, 75002 Paris à 17 heures le 15 Janvier 2016. 
+Le Cercle du Coin s’est réuni pour sa première assemblée générale au Sof’s Bar, 43 rue Saint-Sauveur, 75002 Paris à 17 heures le 25 Janvier 2016. 
 
 Étaient présents en qualité de président Adli TAKKAL BATAILLE, de secrétaire Jacques FAVIER et de trésorier Jérémie DUBOIS-LACOSTE. 
 
