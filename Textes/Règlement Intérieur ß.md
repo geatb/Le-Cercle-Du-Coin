@@ -114,7 +114,7 @@ Le présent article ne pourra être modifié qu’avec un vote électronique dé
 
 **Article 6 - Subvention**
 
-L’association se réserve le droit de verser des subventions dans le cadre de projets précis proposés par les membres. Les projets qui pourront bénéficier d'une subvention doivent respecter la licence Creative Commons Paternité - Partage à l'Identique 2.0 France. Sur la décision du conseil d’administration, les projets peuvent être soit approuvés directement, soit renvoyés vers une commission, soit proposés à l’ensemble des membres. Les membres proposant un projet ne peuvent voter pour celui-ci s’ils sont administrateur dans l'optique de ne pas mener à des conflits d’intérêt.
+L’association se réserve le droit de verser des subventions dans le cadre de projets précis proposés par les membres. Pour les projets non-commerciaux qui pourront bénéficier d'une subvention doivent respecter la licence Creative Commons Paternité - Partage à l'Identique 2.0 France. Sur la décision du conseil d’administration, les projets peuvent être soit approuvés directement, soit renvoyés vers une commission, soit proposés à l’ensemble des membres. Les membres proposant un projet ne peuvent voter pour celui-ci s’ils sont administrateur dans l'optique de ne pas mener à des conflits d’intérêt.
 
 Le présent article ne pourra être modifié qu’avec un vote électronique décentralisé à la majorité des membres de l’association.
 
