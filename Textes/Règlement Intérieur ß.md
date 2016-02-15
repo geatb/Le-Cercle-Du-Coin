@@ -6,7 +6,7 @@ Le présent règlement intérieur est établi par l’assemblée générale cons
 
 Celui-ci correspond à l’association Le Cercle du Coin dont le siège se trouve à Paris et dont l'objet est l'étude et la promotion des nouvelles technologies favorisant l'émergence et le développement des monnaies décentralisées et du Bitcoin ainsi que de leurs multiples applications. 
 
-Le règlement a pour but la clarification de certains points évoqués dans les statuts, et la mise en place d’articles pouvant aider au bon fonctionnement de l’association. Il peut donc être considéré comme adossé aux statuts. Le présent règlement intérieur s’applique à tous les membres de l’association. Il pourra être modifié sur certains points par le conseil d’administration et sur d’autres par l’ensemble des membres de l’association via une assemblée générale. Les votes décrits si dessous sont par essence décentralisés, cependant en cas de problème technique ou autres, le conseil d’administration se réserve le droit de modifier celui-ci. Le présent règlement tout comme les statuts est consultable par tous sur le site internet de l’association et pourra également être consulté et modifié sur Github. 
+Le règlement a pour but la clarification de certains points évoqués dans les statuts, et la mise en place d’articles pouvant aider au bon fonctionnement de l’association. Le présent règlement intérieur s’applique à tous les membres de l’association. Il pourra être modifié par le conseil d’administration ainsi que par l’ensemble des membres de l’association réunis en assemblée générale ordinaire. Les votes décrits si dessous sont par essence décentralisés, cependant en cas de problème technique ou autres, le conseil d’administration se réserve le droit de modifier celui-ci. Le présent règlement tout comme les statuts est consultable par tous sur le site internet de l’association et pourra également être consulté et des modifications proposées sur Github. 
 
 **Article 1 - Cotisation**
 
@@ -18,61 +18,61 @@ La cotisation des membres est fixée annuellement. Pour l’exercice commençant
 
 Elle sera révisée annuellement par le conseil d’administration en tenant compte de l’évolution de la valeur du bitcoin. L’association fera en sorte que la cotisation se situe entre 20 et 40 euros pour les personnes physique et entre 40 et 80 pour les personnes morales.
 
-La modification du montant des cotisations pourra être décidée par le conseil d’administration après la soumission d’un vote électronique décentralisé à une majorité de 75% de tous les membres comme stipulé dans les statuts. Cependant en cas de dépassement du seuil suscité, le conseil d’administration se réserve le droit de modifier temporairement la somme dans l’attente des résultats d’un vote.
+La modification du montant des cotisations pourra être décidée par le conseil d’administration après la soumission d’un vote électronique décentralisé à une majorité de 75% de tous les membres comme stipulé dans les statuts. Cependant en cas de dépassement du seuil précité, le conseil d’administration se réserve le droit de modifier temporairement la somme dans l’attente des résultats d’un vote. [NB : je recommande la suppression de la phrase précédente, qui prévoit une exception aux règles statutaires que rien ne justifie, le vote électronique étant de nature à permettre de s'adapter à l'urgence]
 
-Le conseil d’administration peut exceptionnellement réduire le montant de la cotisation pour des membres ayant vraiment un problème de ressources mais témoignant un intérêt certain pour l’association et accepter des subventions et donations dans des monnaies autres que le Bitcoin, voire des cotisations après évaluation des raisons justifiant leur non versement en bitcoin.
+Le conseil d’administration peut exceptionnellement réduire le montant de la cotisation pour des membres empêchés de cotiser mais dont la participation revêt un intérêt certain pour l’association et accepter des subventions et donations dans des monnaies autres que le Bitcoin, voire des cotisations après évaluation des raisons justifiant leur non versement en bitcoin.
 
 Toute cotisation versée à l’Association est définitivement acquise. Il ne saurait être exigé un remboursement de cotisation en cours d’année en cas de démission, de radiation, ou de décès d’un membre.
 
 Le versement de la cotisation permet aux membres de profiter des activités de l’association, sauf les activités pour lesquelles un versement complémentaire sera jugé nécessaire par le conseil d’administration. Il permet également de soutenir les actions de subvention de l’association.
 
-Les membres d’honneur sont dispensés de cotisations mais peuvent cependant contribuer volontairement.
+Les membres d’honneur sont dispensés de cotisation mais peuvent contribuer volontairement.
 
 La cotisation peut se faire en ligne sur le site de l’association.
 
 **Article 2 - Condition d’adhésion et d’exclusion**
 
-L’association est libre par essence, vu qu’elle est communautaire, même si toute candidature est examinée. Il n’y a donc pas de conditions strictes pour en faire partie, cependant il y a des conditions négatives :
+[Attention : on dit ici une chose et son contraire ! je suggère de reprendre l'alinéa ainsi] L’admission au sein de l'association n'est acquise que sous réserve de l'examen de toute candidature par le conseil d'administration qui peut la refuser, notamment :
 
 Dans le cadre des personnes physique, celles-ci ne doivent pas être associées à des entreprises dont l’exercice est frauduleux ou se réclamer d’idéologies contraires aux lois.
 
-Dans le cadre des personnes morales : elles doivent pouvoir prouver, sur demande, au conseil d’administration la légalité et légitimité de leur action. Elles feront dans tous les cas l’objet d’un examen approfondi de la part du conseil d’administration qui se réserve le droit de refuser une candidature. ( dans ce cas présent les personnes sont remboursés à hauteur de leur entière cotisation )
+Dans le cadre des personnes morales : elles doivent pouvoir prouver, sur demande, au conseil d’administration la légalité et licéité de leur action. Elles feront dans tous les cas l’objet d’un examen approfondi de la part du conseil d’administration qui se réserve le droit de refuser une candidature. ( dans ce cas présent les personnes sont remboursés à hauteur de leur entière cotisation )
 
 Ces conditions respectées, toute personne donnant et attestant de son nom et prénom, s’engageant à respecter les statuts, le règlement intérieur et ayant effectué le paiement de sa cotisation devrait se voir le droit de rejoindre l’association.
 
-Il est possible d’exclure un membre si plus des 2/3 des membres le demandent, le conseil  d’administration se réservant cependant le droit de faire appel et de sonder de nouveau les membres.
+Il est possible d’exclure un membre si plus des 2/3 des membres le demandent, après que celui ait reçu connaissance des griels qui lui sont reprochés et ait été mis à même d'y répondre, le conseil  d’administration se réservant alors le droit de faire appel et de sonder de nouveau les membres.
 
-Le présent article ne pourra être modifié qu’avec un vote électronique décentralisé à la majorité des membres de l’association.
+Le présent article ne pourra être modifié qu’avec un vote électronique décentralisé à la majorité des membres de l’association à jour de cotisation. [Pourquoi ? pourquoi pas l'AGE ?]
 
 **Article 3 - Constitution du conseil d’administration**
 
-L’association est représentée et administrée par un Conseil d'administration composé d’un certains nombres d’administrateurs ( 7 à l’heure actuelle) de sorte à rester dans une logique de non-concentration des pouvoirs. Au sein de ce conseil sont désignés un président, un trésorier et un secrétaire représentant l’association devant la loi. 
+L’association est représentée et administrée par un Conseil d'administration composé de 7 administrateurs. Au sein de ce conseil sont désignés un président, un trésorier et un secrétaire représentant l’association devant la loi. 
 
-Le conseil d'administration doit se réunir (physiquement ou non) au moins tous les deux mois et aussi souvent que l’intérêt de l’association l’exige. Ses membres sont soumis à un devoir de transparence notamment en ce qui concerne les sujet abordés lors de ces réunions.
+Le conseil d'administration doit se réunir (physiquement ou non) au moins tous les deux mois et aussi souvent que l’intérêt de l’association l’exige. Ses membres sont soumis à un devoir de transparence notamment en ce qui concerne les sujets abordés lors de ces réunions.
 
-Les membres du conseil d'administration sont nommés pour un mandat se déroulant sur deux années civiles. Les membres du conseil d’administration peuvent être destitués de leur poste si plus de 75% des membres le demandent. Cela permet aux membres de conserver un pouvoir de sanction contre l’exécutif de l’association.
+Les membres du conseil d'administration sont nommés pour un mandat se déroulant sur deux années civiles. Les membres du conseil d’administration peuvent être destitués de leur poste si plus de 75% des membres le demandent.
 
-Les membres éventuellement désapprouvés sont remplacés par une élection à la majorité simple à l’aide d’un vote électronique décentralisé dans le mois suivant leur destitution.  En cas de démission d’un membre du conseil d'administration, celui-ci est remplacé par une élection à la majorité simple à l’aide d’un vote électronique décentralisé dans le mois suivant sa démission. 
+Ils sont alors remplacés par une élection à la majorité simple à l’aide d’un vote électronique décentralisé dans le mois suivant cette destitution.  En cas de démission d’un membre du conseil d'administration, celui-ci est remplacé par une élection à la majorité simple à l’aide d’un vote électronique décentralisé dans le mois suivant sa démission. 
 
-Le conseil d'administration se réserve le droit de proposer l’intégration d’un nouveau membre et la création d’un poste, celui-ci devra être approuvé à la majorité absolue à l’aide d’un vote électronique décentralisée. Les membres du conseil d'administration sont rééligibles.
+Le conseil d'administration se réserve le droit de proposer l’intégration d’un nouveau membre et la création d’un poste d'administrateur, celui-ci devra être approuvé à la majorité absolue à l’aide d’un vote électronique décentralisée, ce vote emportant modification du nombre d'administrateurs dans ce réglement intérieur. Les membres du conseil d'administration sont rééligibles.
 
 L’élection se déroule lors de l’assemblée générale, il pourra s’effectuer selon la décision du conseil d’administration avec l’accord de la majorité des membres, soit de manière plus traditionnelle (main levée, bulletin secret …), soit par un vote électronique décentralisé permettant aux membres non présents de voter. Les candidats ne sont pas élus pour un poste précis, ils obtiennent un siège du conseil d'administration à l’issue du vote. Le vote est composé d’un scrutin à la majorité simple, les votants possèdent un nombre de vote égal au nombre de sièges à pourvoir. Le mode de scrutin est à la majorité simple à un tour. Les votants choisissent intégralement la distribution de leur n bulletins. Avec la condition qu’il ne peuvent concentrer plus de la moitié de leur voix à l’arrondi inférieur pour un même candidat. Les candidats se présentant ne peuvent pas voter pour eux-même.
 
 Les membres élus participent ensuite à une élection à l’amiable entre les nouveaux membres du conseil d'administration. Si aucun accord n’est trouvé ils doivent effectuer un vote à la majorité simple pour chaque poste à l’aide d’un vote électronique décentralisé. L’association doit posséder un président, un secrétaire et un trésorier. Le reste des élus deviennent administrateurs. 
 
-Les délibérations du conseil d'administration sont constatées par des procès-verbaux portés sur un registre spécial. Ils peuvent être signés par les différents membres du conseil d'administration. Les délibération doivent s’effectuer avec la participation du président ou d’un président de séance élu par le conseil d'administration si le président est empêché.
+Les délibérations du conseil d'administration sont constatées par des procès-verbaux portés sur un registre spécial. Ils peuvent être signés, le cas échéant électroniquement, par les différents membres du conseil d'administration. Les délibération doivent s’effectuer avec la participation du président ou d’un président de séance élu par le conseil d'administration si le président est empêché.
 
-Lors de décisions non-prévues dans les statuts ou le règlement intérieur, le mode de scrutin est choisi à l’amiable par le conseil d'administration ;  si aucun accord n’est trouvé au sein du Conseil, le vote s’effectue par défaut à la majorité absolue de l’Assmeblée par vote électronique décentralisé. En cas de partage, la voix des administrateurs est alors  prépondérante. En cas de partage absolu, la décision est reportée. (à cause de vote blanc par exemple)
+Lors de la prise de décisions ordinaires, qui ne sont soumises à aucun formalisme particulier dans les statuts ou le règlement intérieur, le mode de scrutin est choisi à l’amiable par le conseil d'administration  Si aucun accord n’est trouvé au sein du Conseil, le vote s’effectue par défaut à la majorité absolue de l’Assmeblée par vote électronique décentralisé. [En cas de partage, la voix des administrateurs est alors  prépondérante : A supprimer car non compréhensible : soit plusieurs membres ont un vote majoré et on compte les voix, ce qui est une disposition statutaire rare et peu opportune, soit une personne, qui est en général le président, se voit accorder voix prépondérante en cas de partage]. [idem : En cas de partage absolu, la décision est reportée. (à cause de vote blanc par exemple)]
 
-Le présent article ne pourra être modifié qu’avec un vote électronique décentralisé au deux tiers des membres de l’association lors d’une assemblée générale.
+Le présent article ne pourra être modifié qu’avec un vote électronique décentralisé au deux tiers des membres de l’association lors d’une assemblée générale.  [Pourquoi ? pourquoi pas l'AGE ?]
 
 **Article 4 - La répartition des rôles des administrateurs**
 
-Le conseil d’administration de l’association est composé d’un président, d’un secrétaire, d’un trésorier et d’administrateurs. 
+Le conseil d’administration de l’association est composé d’un président, d’un secrétaire, d’un trésorier et des autres administrateurs. 
 
-Les administrateurs peuvent avoir un titre de mission adossé à leur position permettant de mieux identifier les objectifs de chacun des administrateurs au sein de l’association. Ce titre peut être changé sans la sollicitation des membres de l’association, cependant les administrateurs doivent faire en sorte qu’il soit le plus durable possible. 
+Les administrateurs peuvent se voir attribuer par le conseil un titre de mission adossé à leur position permettant de mieux identifier les rôles de chacun au sein de l’association.  
 
-Le présent article ne pourra être modifié qu’avec un vote électronique décentralisé à la majorité absolue des membres de l’association.
+Le présent article ne pourra être modifié qu’avec un vote électronique décentralisé à la majorité absolue des membres de l’association.  [Pourquoi ? pourquoi pas l'AGE ?]
 
 **4.1 Le Président**
 
@@ -84,25 +84,25 @@ En cas d’empêchement du président, et sauf procuration donnée par lui à l�
 
 **4.2 Le secrétaire**
 
-Le secrétaire est chargé de la mise par écrit des décisions de l’association. Il est principalement sollicité pour tout ce qui concerne la correspondance, la convocation, la tenue des procès-verbaux, et la tenue des registres prévus par la loi. 
+Le secrétaire est chargé de la collation des décisions de l’association et procès-verbaux de ses organes statutaires. Il est ainsi sollicité pour tout ce qui concerne la correspondance, la convocation, la tenue des procès-verbaux, et la tenue des registres prévus par la loi.
 
-Cependant ces tâches peuvent être réparties entre les administrateurs sur un accord à l’amiable.
+Il peut déléguer ces tâches auprès d'autres administrateurs.
 
 **4.3 Trésorier**
 
-Le trésorier est chargé du patrimoine de l’Association. Il sera principalement sollicité pour effectuer des paiements, recevoir des sommes dues, et faire les comptes. 
+Le trésorier est chargé du patrimoine de l’Association. Il sera principalement sollicité pour effectuer des paiements, recevoir des sommes dues, et veiller à la tenue des comptes. 
 
-Cependant ces tâches peuvent être réparties entre les administrateurs sur un accord à l’amiable.
+Il peut déléguer ces tâches auprès d'autres administrateurs.
 
-Les comptes doivent être rendus public dès leur validation par le bureau.
+Les projets de comptes annuels doivent être rendus public dès leur validation par le bureau, avant soumission à l'assemblée générale.
 
-Le présent article ne pourra être modifié qu’avec un vote électronique décentralisé à la majorité absolue des membres de l’association.
+Le présent article ne pourra être modifié qu’avec un vote électronique décentralisé à la majorité absolue des membres de l’association. [Pourquoi ? pourquoi pas l'AGE ?]
 
 **4.4 Administrateurs**
 
 Les administrateurs incluant le président, le secrétaire et le trésorier, sont les représentants de l’association dans les actions quotidiennes de celles-ci.
 
-Ils sont tous considérés de la même manière sans aucune distinction par les membres de l’association.
+Ils sont tous considérés de la même manière sans aucune distinction par les membres de l’association. [que veut-on dire ? pas cohérent avec les attributions spéciales du Pdt, secrétaire, trésorier, ...]
 
 **Article 5 - Commissions**
 
@@ -114,13 +114,13 @@ Le présent article ne pourra être modifié qu’avec un vote électronique dé
 
 **Article 6 - Subvention**
 
-L’association se réserve le droit de verser des subventions dans le cadre de projets précis proposés par les membres. Pour les projets non-commerciaux qui pourront bénéficier d'une subvention doivent pour le contenu, être sous la licence Creative Commons Paternité - Partage à l'Identique 2.0 France et pour le logiciel, être open source, sous licence libre ou libre de diffusion. Sur la décision du conseil d’administration, les projets peuvent être soit approuvés directement, soit renvoyés vers une commission, soit proposés à l’ensemble des membres. Les membres proposant un projet ne peuvent voter pour celui-ci s’ils sont administrateurs dans l'optique de ne pas mener à des conflits d’intérêt.
+L’association se réserve le droit de verser des subventions dans le cadre de projets précis proposés par les membres. Les projets non-commerciaux qui pourront bénéficier d'une subvention doivent pour le contenu, être punliés sous la licence Creative Commons Paternité - Partage à l'Identique 2.0 France et les projets de logiciel devront être open source, sous licence libre ou libre de diffusion. Sur la décision du conseil d’administration, les projets peuvent être soit approuvés directement, soit renvoyés vers une commission, soit proposés à l’ensemble des membres. Les membres proposant un projet ne peuvent voter pour celui-ci s’ils sont administrateurs dans l'optique de ne pas mener à des conflits d’intérêt. [je ne trouve pas cet article très clair : je suggère de limiter au CA le pouvoir de décider de telles subventions. L'idée que ce soit le résultat d'un vote électronique autonome me semble sous-estimer la responsabilité du CA de veiller à l'équilibre d'ensemble du budget]
 
 Le présent article ne pourra être modifié qu’avec un vote électronique décentralisé à la majorité des membres de l’association.
 
-**Article 7 – Avantages consentis aux membres**
+**Article 7 – Avantages consentis aux membres** [je suggère fortement de supprimer cet article qui n'apporte rien et peut paraître interférer avec la règle de non lucrativité des associations : procurer des avantages aux membres n'est normalement pas un but statutaire d'une telle association ; pour autant, ça ne m'empêche pas de le faire...]
 
-L’association doit s’efforcer de procurer des avantages à ses membres lorsqu’elle organise des services et évènements publics : on peut par exemple admettre que dans le cadre d’un évènement elle offre une réduction aux membres de l’association.
+L’association doit s’efforcer de procurer des avantages à ses membres lorsqu’elle organise des services et évènements publics : on peut par exemple admettre que dans le cadre d’un évènement elle offre une réduction aux membres de l’association.
 
 Il est également admis que l’association agit avant-tout au nom de ses membres et non pas comme une entité représentant l’avis général de la communauté sur tout les points concernant les technologies et passions défendues.
 
@@ -128,8 +128,9 @@ Le présent article ne pourra être modifié qu’avec un vote électronique dé
 
 **Article 8 - Budget**
 
-Le Budget doit être totalement transparent et établi en euros et Bitcoin. Il doit l’être de sorte à effectuer une économie circulaire en Bitcoin au sein de l’association et avec les acteurs avec qui elle a des rapports financiers. Le budget doit être complètement transparent et affiché sur le site. (pas nécessairement en euros car difficilement actualisable.)
+Le Budget doit être totalement transparent et établi en euros et Bitcoin [ne faut-il pas choisir ? l'option btc n'est-elle pas la plus logique avec des cotisations en bitcoins ?]. [A mon sens, tout le reste de cet article n'a pas sa place dans un RI, je suggère de le supprimer :
+Il doit l’être de sorte à effectuer une économie circulaire en Bitcoin au sein de l’association et avec les acteurs avec qui elle a des rapports financiers. Le budget doit être complètement transparent et affiché sur le site. (pas nécessairement en euros car difficilement actualisable.)
 
 La logique de l’association à ce sujet a déjà été explicitée dans un article posté sur le blog de l’association. (Consulter)
 
-Le présent article ne pourra être modifié qu’avec un vote électronique décentralisé à la majorité des membres de l’association.
+Le présent article ne pourra être modifié qu’avec un vote électronique décentralisé à la majorité des membres de l’association.]
