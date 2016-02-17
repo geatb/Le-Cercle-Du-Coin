@@ -1,0 +1,27 @@
+***Pas de révolution Blockchain sans Bitcoin !***
+
+Fondé  dans les dernières semaines de 2015, le Cercle du Coin regroupe à ce jour 26 membres offrant une très grande variété d’origines, de profils et d’expériences : 7 fondateurs travaillant en France, Belgique et Suisse, rejoints par 5 entreprises (travaillant à Paris, Toulouse, Vierzon et Luxembourg) et 14 membres particuliers dont 7 chefs d’entreprises. Tous sont des membres actifs (responsables d’entreprises, de start-up, de meet-up, de sites d’information, chercheurs). Tous ont acquitté en bitcoin leur cotisation et se sont investis dans le bitcoin et les monnaies décentralisées bien avant le buzz de la blockchain et la couverture de The Economist.
+
+Alors qu’au delà des banques et des assureurs, qui ont jusqu’à présent principalement porté leur intérêt sur le fonctionnement pratique de blockchains et de « smart contracts », on voit désormais les pouvoirs publics, les parlementaires ou encore les administrations scruter les potentiels de « la technologie blockchain », les membres du Cercle du Coin souhaitent faire connaître à tous, à la fois  leur disponibilité et leur sentiment.
+
+En l’absence d’un patron, d’un dirigeant ou  représentant officiel à qui s’adresser, il leur a semblé qu’il fallait une organisation francophone visible et le « Cercle du Coin » a donc été fondé comme un canal d’accès, pour tous ceux qui chercheront de l’information en langue française sur le bitcoin, les monnaies et échanges décentralisés mais aussi sur les aspects technologiques liés au fonctionnement d’une blockchain. 
+
+Ses membres sont présents dans plus de dix villes, et l’un d’entre eux saura se rendre disponible pour fournir non « la » vérité (car toutes ces technologies sont jeunes et en constante évolution) mais un état des questions et des réponses, une expertise fiable de personnes ayant un certain usage pratique de la blockchain au-delà de toute la littérature théorique à son sujet, que ces personnes soient des membres ou des personnes extérieures reconnues pour leur compétence dans le milieu.
+
+Quelque soit l’enthousiasme que suscite « la technologie blockchain », et nous nous réjouissons de cette enthousiasme, les membres du Cercle ne la présenteront cependant pas sans référence au Bitcoin, qui trouve de ce fait d’autant plus de légitimité. Penser sans Bitcoin n’est possible qu’à des néophytes, ou à ceux qui ne souhaitent vendre comme conseil que ce que le client veut entendre.
+
+Il y a deux sortes de blockchains, peut-on lire : les publiques (Bitcoin, Ethereum…), qui fonctionnent à l’aide d’un intéressement, et les privées (qui fonctionnent comme des clubs semblables à des bases de données distribuées, ce qui existe déjà) On peut vouloir créer un autre token (jeton) que le bitcoin, mais s’il n’a pas de valeur de marché il ne remplira pas sa fonction de sécurisation de la blockchain. En effet nous croyons en la valeur intrinsèque d’un avoir numérique décentralisé, un pas conceptuel qui devrait être largement saisi. Il est peu probable qu’un autre token, sans innovation technologique majeure, acquière sur Internet un marché aussi profond, ou soit doté d’une sécurité aussi grande que celle du bitcoin. Le passé indique certaines erreurs à ne pas répéter : laisser se développer une « bulle blockchain », mais pire encore, par censure, ne pas saisir l’essence même de la technologie en question et la valeur de son token (le bitcoin). Faire cela c’est répéter l’aventure sans lendemain des portails privés aux codes totalement opaques et fermés. Cela serait aussi répéter l’erreur de ceux qui ont cru que l’écosystème Web pouvait fonctionner sans aucun revenu, erreur payée très cher par de nombreuses entreprises
+
+Les membres du Cercle connaissent et comprennent les réticences que suscite auprès des institutions le bitcoin, régulièrement présenté comme « sulfureux », et dont toutes les erreurs de jeunesse sont rappelées dans chaque article, dans chaque exposé. Plusieurs membres travaillent soit au contact de régulateurs, soit dans une perspective de régulation appropriée de la blockchain, notamment par des techniques de scoring des portefeuilles.
+
+En 2016, il apparaît utile de travailler à professionnaliser et promouvoir le bitcoin sans exclure la création de services inédits et innovants comme par exemple Ethereum (projet construit par rapport et non par omission à Bitcoin).
+
+Les blockchains qui vont se développer seront dotées de tokens, qu’il s’agisse du bitcoin, de bitcoins « colorés », de jetons circulant sur des sidechains accrochées à la blockchain du bitcoin, ou de tokens indépendants mais ayant un réel marché. Et ce réel marché se fera en bitcoin, cybermonnaie pivot des échanges décentralisés et de toute l’économie naissante de ces échanges décentralisés. Qu’on le veuille ou non le bitcoin demeure pour l’instant l’étalon des cryptomonnaies et il a vocation à le rester.
+
+Refuser de s’intéresser au bitcoin (relégué dans l’introduction des discours comme un cas d’école particulier de la blockchain, ou comme son berceau douteux ) c’est choisir la mauvaise route et certainement pas celle qui conduirait nos sociétés à profiter pleinement de la « technologie blockchain ». Nous sommes en face, ici, d’un objet systémique entrainant un bouleversement paradigmatique.
+
+Bitcoin a déjà été donné pour mort près de 100 fois par diverses autorités, pour les raisons les plus diverses. Et pourtant, il est toujours là. Vive Bitcoin !
+
+http://lecercleducoin.fr  
+
+contact@lecercleducoin.fr
