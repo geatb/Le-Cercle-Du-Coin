@@ -116,7 +116,7 @@ Sur la décision du conseil d’administration, les projets peuvent être soit a
 
 Le présent article ne pourra être modifié qu’avec un vote électronique décentralisé à la majorité des membres de l’association à jour de cotisation.
 
-**Article 7 – Agissementq et représentation**
+**Article 7 – Agissements et représentation**
 
 Il est également admis que l’association agit avant-tout au nom de ses membres et non pas comme une entité représentant l’avis général de la communauté sur tous les points concernant les technologies et les passions défendues.
 
